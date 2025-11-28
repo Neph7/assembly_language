@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OddEven/OddEven.vcxproj" Id="7f3065b9-53a9-4888-adc7-2398bf8dba4e" />
+</Solution>

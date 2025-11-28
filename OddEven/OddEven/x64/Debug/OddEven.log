@@ -1,0 +1,7 @@
+﻿  Assembling OddEven.asm...
+OddEven.asm(3): error A2008: syntax error : .
+OddEven.asm(4): error A2008: syntax error : .
+OddEven.asm(5): error A2008: syntax error : .
+OddEven.asm(7): error A2008: syntax error : ,
+OddEven.asm(8): fatal error A1000: cannot open file : Irvine32.inc
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\OddEven.obj" /W3 /errorReport:prompt  /TaOddEven.asm" exited with code 1.
